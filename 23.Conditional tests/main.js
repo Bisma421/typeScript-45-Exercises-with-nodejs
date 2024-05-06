@@ -1,0 +1,22 @@
+// Conditional Tests: Write a series of conditional tests. Print a statement describing each test and your prediction for the results of each test. Your code should look something like this:
+var car = 'subaru';
+console.log("Is car == 'subaru'? I predict True.");
+console.log(car == 'subaru');
+console.log("Is car !== 'subaru'? I predict True.");
+console.log(car !== 'subaru');
+console.log("Is car !== 'Toyota'? I predict True.");
+console.log(car !== 'Toyota');
+console.log("Is car == 'Toyota'? I predict True.");
+console.log(car == 'Toyota');
+console.log("Is car !== 'Honda'? I predict True.");
+console.log(car !== 'Honda');
+console.log("Is car == 'Honda'? I predict True.");
+console.log(car == 'Honda');
+console.log("Is car !== 'Suzuki'? I predict True.");
+console.log(car !== 'Suzuki');
+console.log("Is car == 'Suzuki'? I predict True.");
+console.log(car == 'Suzuki');
+console.log("Is car !== 'Civic'? I predict True.");
+console.log(car !== 'Civic');
+console.log("Is car == 'Civic'? I predict True.");
+console.log(car == 'Civic');
